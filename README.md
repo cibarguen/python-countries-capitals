@@ -44,7 +44,7 @@
 	2. You can use words or numbers for the user to choose their options.
 
 #### Output messages
-	1. Remember to show helps to the user when he did a wrong action 
+	1. Remember to show help text in case the user enters something wrong
 	in the application.
 
 
